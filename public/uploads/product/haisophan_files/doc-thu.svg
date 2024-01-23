@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="28" viewBox="0 0 94 28">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <rect width="94" height="28" fill="#242424" opacity=".5" rx="14"/>
+                    <g>
+                        <text fill="#FFF" font-family="Roboto-Medium, Roboto" font-size="13" font-weight="400" transform="translate(12 4)">
+                            <tspan x="20.365" y="14">Đọc Thử</tspan>
+                        </text>
+                        <g>
+                            <g stroke="#FFF" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M0 0l6.5 1.714L13 0v8.571l-6.5 1.715L0 8.57V0zm6.5 1.714v8.572m-6.5.571V12h13v-1.143" transform="translate(12 4) translate(0 2) translate(2 2)"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
